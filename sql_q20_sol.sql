@@ -1,0 +1,2 @@
+-- 20. Write a SQL query to find the substitute players who came into the field in the first
+-- half of play, within a normal play schedule.

@@ -1,0 +1,1 @@
+--  13. Write a SQL query to find all the defenders who scored a goal for their teams.
